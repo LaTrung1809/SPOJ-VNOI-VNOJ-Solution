@@ -16,9 +16,9 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Normal Student` at Dinh Tien Hoang Highschool - Ninh Binh - Vietnam
-- :trophy: `Top 50 ICPC` Finalist 2021
+- :trophy: `Top 50 ICPC` World Finalist 2021 at CodeForces
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :computer: I am a competitive programmer mainly at `CodeForces`
 - :student: I’m currently learning: `Computer Science` and `Software Development`.
 - :fire: Always `learning new things`
 
@@ -157,7 +157,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/LaTrung1809"><img alt="LaTrung1809's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=LaTrung1809's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
